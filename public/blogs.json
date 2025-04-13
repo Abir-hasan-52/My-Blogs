@@ -6,7 +6,7 @@
       "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
       "author": "Rafiul Islam",
       "posted_date": "2025-04-10",
-      "posted_time": "14:30",
+      "posted_time": "14",
       "hashtags": ["beginner", "blogging", "2025"]
     },
     {
@@ -16,7 +16,7 @@
       "author_img": "https://randomuser.me/api/portraits/women/65.jpg",
       "author": "Nusrat Jahan",
       "posted_date": "2025-04-11",
-      "posted_time": "10:15",
+      "posted_time": "10",
       "hashtags": ["AI", "webdev", "future", "technology"]
     },
     {
@@ -26,7 +26,7 @@
       "author_img": "https://randomuser.me/api/portraits/men/75.jpg",
       "author": "Tanjim Ahmed",
       "posted_date": "2025-04-12",
-      "posted_time": "08:00",
+      "posted_time": "8",
       "hashtags": ["beginner", "tips", "programming", "ES6"]
     },
     {
@@ -36,7 +36,7 @@
       "author_img": "https://randomuser.me/api/portraits/women/12.jpg",
       "author": "Maliha Chowdhury",
       "posted_date": "2025-04-13",
-      "posted_time": "16:45",
+      "posted_time": "16",
       "hashtags": ["JavaScript", "closures", "ES6", "intermediate"]
     },
     {
@@ -46,7 +46,7 @@
       "author_img": "https://randomuser.me/api/portraits/men/45.jpg",
       "author": "Zubair Hossain",
       "posted_date": "2025-04-13",
-      "posted_time": "19:20",
+      "posted_time": "19",
       "hashtags": ["TailwindCSS", "frontend", "2025", "trends"]
     }
   ]
