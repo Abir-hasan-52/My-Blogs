@@ -1,5 +1,6 @@
  
 import './App.css'
+import Blogs from './Components/Blogs/Blogs'
 import Navbar from './Components/Navber/Navbar'
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
        
       <Navbar></Navbar>
        
+      <Blogs> </Blogs>
     </>
   )
 }

@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://images.unsplash.com/photo-1515377905703-c4788e51af15",
+      "title": "How to Start a Successful Blog in 2025",
+      "author_img": "https://randomuser.me/api/portraits/men/32.jpg",
+      "author": "Rafiul Islam",
+      "posted_date": "2025-04-10",
+      "posted_time": "14:30",
+      "hashtags": ["beginner", "blogging", "2025"]
+    },
+    {
+      "id": 2,
+      "cover": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg",
+      "title": "The Future of AI in Web Development",
+      "author_img": "https://randomuser.me/api/portraits/women/65.jpg",
+      "author": "Nusrat Jahan",
+      "posted_date": "2025-04-11",
+      "posted_time": "10:15",
+      "hashtags": ["AI", "webdev", "future", "technology"]
+    },
+    {
+      "id": 3,
+      "cover": "https://cdn.pixabay.com/photo/2016/11/29/03/53/blur-1869337_1280.jpg",
+      "title": "10 Tips for Learning Programming Faster",
+      "author_img": "https://randomuser.me/api/portraits/men/75.jpg",
+      "author": "Tanjim Ahmed",
+      "posted_date": "2025-04-12",
+      "posted_time": "08:00",
+      "hashtags": ["beginner", "tips", "programming", "ES6"]
+    },
+    {
+      "id": 4,
+      "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "title": "Understanding JavaScript Closures with Examples",
+      "author_img": "https://randomuser.me/api/portraits/women/12.jpg",
+      "author": "Maliha Chowdhury",
+      "posted_date": "2025-04-13",
+      "posted_time": "16:45",
+      "hashtags": ["JavaScript", "closures", "ES6", "intermediate"]
+    },
+    {
+      "id": 5,
+      "cover": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg",
+      "title": "Why Tailwind CSS is Taking Over in 2025",
+      "author_img": "https://randomuser.me/api/portraits/men/45.jpg",
+      "author": "Zubair Hossain",
+      "posted_date": "2025-04-13",
+      "posted_time": "19:20",
+      "hashtags": ["TailwindCSS", "frontend", "2025", "trends"]
+    }
+  ]
+  
